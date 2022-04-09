@@ -1,0 +1,5 @@
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Domain\obj\Debug\net5.0\Aerolinea.Vuelo.Domain.csproj.AssemblyReference.cache
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Domain\obj\Debug\net5.0\Aerolinea.Vuelo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Domain\obj\Debug\net5.0\Aerolinea.Vuelo.Domain.AssemblyInfoInputs.cache
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Domain\obj\Debug\net5.0\Aerolinea.Vuelo.Domain.AssemblyInfo.cs
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Domain\obj\Debug\net5.0\Aerolinea.Vuelo.Domain.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\bin\Debug\net5.0\Aerolinea.Utils.deps.json
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\bin\Debug\net5.0\Aerolinea.Utils.dll
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\bin\Debug\net5.0\Aerolinea.Utils.pdb
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\obj\Debug\net5.0\Aerolinea.Utils.csproj.AssemblyReference.cache
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\obj\Debug\net5.0\Aerolinea.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\obj\Debug\net5.0\Aerolinea.Utils.AssemblyInfoInputs.cache
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\obj\Debug\net5.0\Aerolinea.Utils.AssemblyInfo.cs
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\obj\Debug\net5.0\Aerolinea.Utils.csproj.CoreCompileInputs.cache
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\obj\Debug\net5.0\Aerolinea.Utils.dll
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\obj\Debug\net5.0\refint\Aerolinea.Utils.dll
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\obj\Debug\net5.0\Aerolinea.Utils.pdb
+D:\DIPLOMADO MICROSERVICIOS\Solution.Aerolinea\Aerolinea.Utils\obj\Debug\net5.0\ref\Aerolinea.Utils.dll
